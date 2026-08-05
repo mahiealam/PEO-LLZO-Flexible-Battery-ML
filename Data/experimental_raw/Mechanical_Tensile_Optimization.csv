@@ -1,0 +1,6 @@
+LLZO_Content_wt%,Tensile_Strength_MPa,Strain_at_Break_percent,Key_Finding
+0,0.45,850,Highly flexible but mechanically weak.
+5,0.85,620,Moderate stiffness increase.
+10,1.40,450,Good balance of flexibility and strength.
+15,1.95,280,Sufficiently flexible for bend radii < 5 mm while resisting dendrites.
+20,2.60,120,High stiffness but becoming too brittle for tight-radius wearable applications.
